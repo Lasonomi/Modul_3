@@ -1,0 +1,29 @@
+/* Gaya umum halaman */
+body {
+    background-color: #f0f8ff; /* Latar belakang lembut */
+    font-family: sans-serif;  /* Gunakan font sans-serif */
+    color: #333;
+    text-align: center;
+    margin: 20px;
+}
+
+/* Gaya untuk heading */
+h1 {
+    color: blue; /* Warna teks heading menjadi biru */
+}
+
+/* Gaya untuk paragraf */
+p {
+    margin: 15px 0; /* Jarak antar paragraf */
+    line-height: 1.5;
+}
+
+/* Gaya tautan */
+a {
+    color: darkblue;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
